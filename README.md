@@ -1,4 +1,5 @@
-# Welcome to Dataset Ingestion Metrics Collection Framework.    
+# AWS Dataset Ingestion Metrics Collection Framework.   
+Framework to enforce long term health of your AWS Data Lake by providing visibility into operational, data quality and business metrics 
 
 ***   
 
